@@ -7,7 +7,7 @@
 * Install the CLI globally using npm:
  
 * Command 
-    npm install -g basic-cli-currency-converter
+npm install -g basic-cli-currency-converter
    
 
 ### Features

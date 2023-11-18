@@ -5,7 +5,6 @@
 ### Installation
 * Make sure you have Node.js installed.
 * Install the CLI globally using npm:
- 
 * Command 
 ```npm install -g basic-cli-currency-converter```
    
